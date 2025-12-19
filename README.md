@@ -147,7 +147,8 @@ Identified the top 3 revenue-generating categories for each month.
 ![Monthly Revenue Trend](visuals/Monthly_revenue_trend.png)
 
 - Top Categories by Revenue
-![Top Categories by Revenue](visuals/Top_Categories_by_Revenue.png)
+
+  ![Top Categories by Revenue](visuals/Top_Categories_by_Revenue.png)
 
 ## Conclusions & Business Insights
 
