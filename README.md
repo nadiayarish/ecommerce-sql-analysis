@@ -66,6 +66,14 @@ All foreign key relationships were valid. No orphan records were detected.
 
 The following business questions were explored using SQL:
 
+- What is the monthly revenue trend?
+
+Approach:
+
+The total revenue was aggregated by month to analyse sales dynamics and the overall growth trend.
+
+📄 SQL file: 02_monthly_revenue.sql
+
 - Which product categories generate the highest revenue?
 
 Approach:
@@ -132,6 +140,11 @@ Outcome:
 Identified the top 3 revenue-generating categories for each month.
 
 📄 SQL file: 08_top_categories_by_month.sql
+
+## Visualizations
+
+- Monthly revenue trend
+![Monthly Revenue Trend](visuals/Monthly_revenue_trend.png)
 
 ## Conclusions & Business Insights
 
