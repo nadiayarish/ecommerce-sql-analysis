@@ -146,6 +146,9 @@ Identified the top 3 revenue-generating categories for each month.
 - Monthly revenue trend
 ![Monthly Revenue Trend](visuals/Monthly_revenue_trend.png)
 
+- Top Categories by Revenue
+![Top Categories by Revenue](visuals/Top_Categories_by_Revenue.png)
+
 ## Conclusions & Business Insights
 
 Based on the analysis of the Brazilian e-commerce dataset, several key insights were identified:
