@@ -177,3 +177,4 @@ The top-selling product categories change from month to month, which shows that 
 - Exploratory Data Analysis
 - Git & GitHub
 - DBeaver / pgAdmin
+- Google Sheets
