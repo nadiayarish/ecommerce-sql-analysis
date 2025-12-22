@@ -150,6 +150,10 @@ Identified the top 3 revenue-generating categories for each month.
 
   ![Top Categories by Revenue](visuals/Top_Categories_by_Revenue.png)
 
+- Average Order Value by Month
+
+  ![Average Order Value by Month](visuals/Average_Order_Value_by_Month.png)
+
 ## Conclusions & Business Insights
 
 Based on the analysis of the Brazilian e-commerce dataset, several key insights were identified:
